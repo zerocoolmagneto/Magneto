@@ -48,7 +48,7 @@ def debug(message):
 def move_cursor(x,y,t1,t2):
     time.sleep(random.uniform(t1,t2))
     win32api.SetCursorPos((x,y))
-def click(x,y,t1,t2):
+def click(x,y,t1=.1,t2=1):
     time.sleep(random.uniform(t1,t2))
     win32api.SetCursorPos((x,y))
     win32api.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN,0,0)
@@ -659,7 +659,8 @@ def ability_self_target(key):
 
 def select_qm_hero():
     if check_region('role.png',0.8,350,100,100,50,0,0) != True:
-        click(960,500,dt1,dt2)
+
+        click(960,600,dt1,dt2)
     else:
         if move_cursor_through_heroes_last_row(1295, 820, 660): return True
         if move_cursor_through_heroes(1749, 740, 740): return True
@@ -846,9 +847,9 @@ while keyboard.is_pressed('p') == False:
         hero_1 = ''
 
         if check_region('smallready.png',0.8,900,950,150,150,0,0) == True:
-            #debug('Found Ready Button!')
+            debug('Found Ready Button!')
             if check_region('loadout.png',0.8,0,900,150,170,0,0) == True:
-                #debug('In VS AI or QM')
+                debug('In VS AI or QM')
                 if hero_select_setting == 'lowest':
                    select_qm_hero()
                 if hero_select_setting == 'last':
