@@ -1,0 +1,23 @@
+Magneto BotFound Leave Button!
+Found Leave Button!
+Found Ready Button!
+In VS AI or QM
+Found Ready Button!
+In VS AI or QM
+Found Ready Button!
+In VS AI or QM
+Found Ready Button!
+In VS AI or QM
+Portrait Found! Remaining in Gamemode 1
+checking tab_abathur.png
+Hero Found
+abathur
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!

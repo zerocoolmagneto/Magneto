@@ -1,0 +1,107 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>2c610cab-e60e-4ee3-a6fd-8c74df1399ed</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>Hotsbt.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Hotsbt</Name>
+    <RootNamespace>Hotsbt</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="action.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Hotsbt.py" />
+    <Compile Include="get region.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ally_health_bar.png" />
+    <Content Include="ban_hero.png" />
+    <Content Include="blank_ban.png" />
+    <Content Include="blue_core.png" />
+    <Content Include="blue_keep_left.png" />
+    <Content Include="blue_keep_right.png" />
+    <Content Include="browse_all_heroes.png" />
+    <Content Include="cancel_symbiote_hotbar.png" />
+    <Content Include="carapace_hotbar.png" />
+    <Content Include="blue_circle_mini.png" />
+    <Content Include="enemy_health_bar.png" />
+    <Content Include="enemy_minion_bar.png" />
+    <Content Include="green_circle_mini.png" />
+    <Content Include="green_health_bar.png" />
+    <Content Include="healthbar.png" />
+    <Content Include="hero_mini_side.png" />
+    <Content Include="hero_select.png" />
+    <Content Include="hotbar\mounted_hotbar.png" />
+    <Content Include="hotbar\mount_hotbar.png" />
+    <Content Include="loadout.png" />
+    <Content Include="lock_in.png" />
+    <Content Include="Lock_in_light.png" />
+    <Content Include="malfurion_mini.png" />
+    <Content Include="minis\abathur_mini.png" />
+    <Content Include="minis\alarak_mini.png" />
+    <Content Include="minis\alexstrasza_mini.png" />
+    <Content Include="minis\ana_mini.png" />
+    <Content Include="minis\anduin_mini.png" />
+    <Content Include="minis\anub%27arak_mini.png" />
+    <Content Include="minis\artanis_mini.png" />
+    <Content Include="minis\arthas_mini.png" />
+    <Content Include="minis\auriel_mini.png" />
+    <Content Include="minis\azmodan_mini.png" />
+    <Content Include="minis\malfurion_mini.png" />
+    <Content Include="newtalent.png" />
+    <Content Include="playing_abathur.png" />
+    <Content Include="prim.png" />
+    <Content Include="redcore.png" />
+    <Content Include="red_fort.png" />
+    <Content Include="red_keep_left.png" />
+    <Content Include="red_keep_right.png" />
+    <Content Include="role.png" />
+    <Content Include="smallexit.png" />
+    <Content Include="smallleave.png" />
+    <Content Include="smallok.png" />
+    <Content Include="smallready.png" />
+    <Content Include="smallrejoin.png" />
+    <Content Include="smallvs.png" />
+    <Content Include="small_blank_ban.png" />
+    <Content Include="spike_burst_hotbar.png" />
+    <Content Include="stab_hotbar.png" />
+    <Content Include="enemy_structure_bar.png" />
+    <Content Include="Symbiote_hotbar.png" />
+    <Content Include="tab_portrait\tab_abathur.png" />
+    <Content Include="tab_portrait\tab_tyrande.png" />
+    <Content Include="talent_open.png" />
+    <Content Include="talent_fav.png" />
+    <Content Include="toxic_test_hotbar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="minis\" />
+    <Folder Include="hotbar\" />
+    <Folder Include="logs\" />
+    <Folder Include="tab_portrait\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

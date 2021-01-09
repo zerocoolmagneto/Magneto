@@ -1,0 +1,3636 @@
+Magneto BotPortrait Found! Remaining in Gamemode 1
+Portrait Found! Remaining in Gamemode 1
+checking tab_abathur.png
+Hero Found
+abathur
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Found Leave Button!
+Found Leave Button!
+Found Ready Button!
+In VS AI or QM
+Portrait Found! Remaining in Gamemode 1
+checking tab_abathur.png
+Hero Found
+abathur
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Found Leave Button!
+Found Leave Button!
+Found Leave Button!
+Found Ready Button!
+In VS AI or QM
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+Not in VS AI or QM hitting ready!
+Found Ready Button!
+In VS AI or QM
+Portrait Found! Remaining in Gamemode 1
+checking tab_abathur.png
+Hero Found
+abathur
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: True Stab ready: None Spike Burst ready: None Carapace ready: None
+Q is Ready!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: True
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: True Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None
+Portrait Found! Remaining in Gamemode 1
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: True
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: None Carapace ready: None
+Symbiote ready: None Stab ready: True Spike Burst ready: None Carapace ready: None
+Checking for Enemy!
+Enemy Found!
+Symbiote ready: None Stab ready: None Spike Burst ready: True Carapace ready: None

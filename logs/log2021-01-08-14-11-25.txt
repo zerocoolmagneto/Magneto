@@ -1,0 +1,9330 @@
+Magneto BotPortrait Found! Remaining in Gamemode 1
+checking tab_abathur.png
+could not find tab_abathur.png in tab_portrait\tab_abathur.png
+checking tab_tyrande.png
+could not find tab_tyrande.png in tab_portrait\tab_tyrande.png
+setting AI to default
+Found Standard Mount
+Created Hero Object default
+Detected Blue side is on Right
+returning parsed locations:
+[(1711, 772), (1711, 773), (1791, 847), (1791, 848), (1778, 889), (1778, 890), (1805, 916), (1805, 917), (1728, 988)]
+returning parsed locations:
+[(1541, 862), (1542, 862), (1568, 889), (1569, 889), (1555, 931)]
+Blue Keep and for locations
+(1711, 772)
+(1711, 773)
+(1791, 847)
+(1791, 848)
+(1778, 889)
+(1778, 890)
+(1805, 916)
+(1805, 917)
+(1728, 988)
+Red Keep and for locations
+(1541, 862)
+(1542, 862)
+(1568, 889)
+(1569, 889)
+(1555, 931)
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(169, 882)]
+hero locations:
+[(169, 882)]
+('health_bar is ', [(0, 169, 882)])
+ally_healthbars
+[(0, 169, 882)]
+Found someone on screen stayin still
+(169, 882, 0)
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[(1421, 142)]
+returning parsed locations:
+[(1504, 241)]
+returning parsed locations:
+[(1380, 357)]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1598, 218)]
+returning parsed locations:
+[(1650, 220)]
+returning parsed locations:
+[(1528, 240)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1458, 136)]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 60)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[(1370, 84)]
+action_run_away, red hero locations
+[(1370, 84)]
+Found heros running away
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(10, 520)]
+hero locations:
+[(10, 520)]
+('health_bar is ', [(0, 10, 520)])
+ally_healthbars
+[(0, 10, 520)]
+Found someone on screen stayin still
+(10, 520, 0)
+returning parsed locations:
+[(196, 486)]
+trying to stick with team on screen
+[(196, 486)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1404, 264)]
+hero locations:
+[(1404, 264)]
+('health_bar is ', [(0, 1404, 264)])
+ally_healthbars
+[(0, 1404, 264)]
+Found someone on screen stayin still
+(1404, 264, 0)
+returning parsed locations:
+[(1572, 279)]
+trying to stick with team on screen
+[(1572, 279)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(850, 245)]
+hero locations:
+[(850, 245)]
+('health_bar is ', [(0, 850, 245)])
+ally_healthbars
+[(0, 850, 245)]
+Found someone on screen stayin still
+(850, 245, 0)
+returning parsed locations:
+[(753, 351)]
+trying to stick with team on screen
+[(753, 351)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(879, 579)]
+hero locations:
+[(879, 579)]
+('health_bar is ', [(0, 879, 579)])
+ally_healthbars
+[(0, 879, 579)]
+Found someone on screen stayin still
+(879, 579, 0)
+returning parsed locations:
+[(742, 783)]
+trying to stick with team on screen
+[(742, 783)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(487, 404)]
+hero locations:
+[(487, 404)]
+('health_bar is ', [(4, 487, 404)])
+ally_healthbars
+[(4, 487, 404)]
+Found someone on screen stayin still
+(487, 404, 4)
+returning parsed locations:
+[(619, 464)]
+trying to stick with team on screen
+[(619, 464)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1391, 801)]
+hero locations:
+[(1391, 801)]
+('health_bar is ', [(0, 1391, 801)])
+ally_healthbars
+[(0, 1391, 801)]
+Found someone on screen stayin still
+(1391, 801, 0)
+returning parsed locations:
+[(1498, 912)]
+trying to stick with team on screen
+[(1498, 912)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 94)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 95)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 91)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(814, 355)]
+returning parsed locations:
+[(833, 325)]
+returning parsed locations:
+[(856, 301)]
+returning parsed locations:
+[(856, 301)]
+returning parsed locations:
+[(856, 301)]
+('hero health = ', 58)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 21)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[(752, 202), (624, 221)]
+action_run_away, red hero locations
+[(752, 202), (624, 221)]
+Found heros running away
+returning parsed locations:
+[(656, 180), (494, 206)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[(1910, 357)]
+trying to stick with team on screen
+[(1910, 357)]
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[(1374, 314)]
+action_run_away, red hero locations
+[(1374, 314)]
+Found heros running away
+returning parsed locations:
+[(1277, 306)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[(1059, 229)]
+action_run_away, red hero locations
+[(1059, 229)]
+Found heros running away
+returning parsed locations:
+[(1040, 142)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[(517, 85)]
+returning parsed locations:
+[(524, 115)]
+returning parsed locations:
+[(451, 151)]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1301, 125), (701, 858)]
+hero locations:
+[(1301, 125), (701, 858)]
+('health_bar is ', [(31, 1301, 125)])
+('health_bar is ', [(31, 1301, 125), (8, 701, 858)])
+ally_healthbars
+[(31, 1301, 125), (8, 701, 858)]
+Found someone on screen stayin still
+(701, 858, 8)
+returning parsed locations:
+[(1321, 149), (1056, 661)]
+trying to stick with team on screen
+[(1321, 149), (1056, 661)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1266, 294), (1390, 405)]
+hero locations:
+[(1266, 294), (1390, 405)]
+('health_bar is ', [(0, 1266, 294)])
+('health_bar is ', [(0, 1266, 294), (35, 1390, 405)])
+ally_healthbars
+[(0, 1266, 294), (35, 1390, 405)]
+Found someone on screen stayin still
+(1266, 294, 0)
+returning parsed locations:
+[(1403, 421), (1018, 488)]
+trying to stick with team on screen
+[(1403, 421), (1018, 488)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(1031, 259)]
+hero locations:
+[(1031, 259)]
+('health_bar is ', [(0, 1031, 259)])
+ally_healthbars
+[(0, 1031, 259)]
+Found someone on screen stayin still
+(1031, 259, 0)
+returning parsed locations:
+[(1038, 157)]
+trying to stick with team on screen
+[(1038, 157)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1049, 789)]
+hero locations:
+[(1049, 789)]
+('health_bar is ', [(0, 1049, 789)])
+ally_healthbars
+[(0, 1049, 789)]
+Found someone on screen stayin still
+(1049, 789, 0)
+returning parsed locations:
+[(1182, 66), (910, 887)]
+trying to stick with team on screen
+[(1182, 66), (910, 887)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(1213, 208)]
+hero locations:
+[(1213, 208)]
+('health_bar is ', [(0, 1213, 208)])
+ally_healthbars
+[(0, 1213, 208)]
+Found someone on screen stayin still
+(1213, 208, 0)
+returning parsed locations:
+[(1415, 278)]
+trying to stick with team on screen
+[(1415, 278)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(588, 629)]
+hero locations:
+[(588, 629)]
+('health_bar is ', [(0, 588, 629)])
+ally_healthbars
+[(0, 588, 629)]
+Found someone on screen stayin still
+(588, 629, 0)
+returning parsed locations:
+[(445, 706)]
+trying to stick with team on screen
+[(445, 706)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(784, 565)]
+hero locations:
+[(784, 565)]
+('health_bar is ', [(0, 784, 565)])
+ally_healthbars
+[(0, 784, 565)]
+Found someone on screen stayin still
+(784, 565, 0)
+returning parsed locations:
+[(905, 499)]
+trying to stick with team on screen
+[(905, 499)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1621, 385)]
+hero locations:
+[(1621, 385)]
+('health_bar is ', [(7, 1621, 385)])
+ally_healthbars
+[(7, 1621, 385)]
+Found someone on screen stayin still
+(1621, 385, 7)
+returning parsed locations:
+[(1759, 382)]
+trying to stick with team on screen
+[(1759, 382)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(1285, 442)]
+hero locations:
+[(1285, 442)]
+('health_bar is ', [(0, 1285, 442)])
+ally_healthbars
+[(0, 1285, 442)]
+Found someone on screen stayin still
+(1285, 442, 0)
+returning parsed locations:
+[(1079, 413)]
+trying to stick with team on screen
+[(1079, 413)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(0, 351)]
+hero locations:
+[(0, 351)]
+('health_bar is ', [(0, 0, 351)])
+ally_healthbars
+[(0, 0, 351)]
+Found someone on screen stayin still
+(0, 351, 0)
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[(85, 806)]
+trying to stick with team on screen
+[(85, 806)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 89)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1829, 765)]
+returning parsed locations:
+[(1826, 721), (1822, 1025)]
+returning parsed locations:
+[(1829, 765)]
+returning parsed locations:
+[(1829, 765)]
+returning parsed locations:
+[(1829, 765)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 89)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Found Leave Button!
+Found Ready Button!
+In VS AI or QM
+Found Ready Button!
+In VS AI or QM
+Portrait Found! Remaining in Gamemode 1
+checking tab_abathur.png
+could not find tab_abathur.png in tab_portrait\tab_abathur.png
+checking tab_tyrande.png
+could not find tab_tyrande.png in tab_portrait\tab_tyrande.png
+setting AI to default
+Found Standard Mount
+Created Hero Object default
+Detected Blue side is on Left
+returning parsed locations:
+[(1628, 794), (1567, 842), (1577, 876), (1577, 877), (1631, 881), (1631, 882), (1632, 882), (1550, 914), (1550, 915), (1551, 915), (1631, 949), (1631, 950), (1632, 950)]
+returning parsed locations:
+[(1739, 793), (1739, 794), (1800, 841), (1801, 841), (1800, 842), (1790, 876), (1791, 876), (1735, 881), (1736, 881), (1817, 914), (1735, 949), (1736, 949)]
+Blue Keep and for locations
+(1628, 794)
+(1567, 842)
+(1577, 876)
+(1577, 877)
+(1631, 881)
+(1631, 882)
+(1632, 882)
+(1550, 914)
+(1550, 915)
+(1551, 915)
+(1631, 949)
+(1631, 950)
+(1632, 950)
+Red Keep and for locations
+(1739, 793)
+(1739, 794)
+(1800, 841)
+(1801, 841)
+(1800, 842)
+(1790, 876)
+(1791, 876)
+(1735, 881)
+(1736, 881)
+(1817, 914)
+(1735, 949)
+(1736, 949)
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(929, 127), (737, 349), (987, 385), (1095, 475)]
+hero locations:
+[(929, 127), (737, 349), (987, 385), (1095, 475)]
+('health_bar is ', [(92, 929, 127)])
+('health_bar is ', [(92, 929, 127), (48, 737, 349)])
+('health_bar is ', [(92, 929, 127), (48, 737, 349), (11, 987, 385)])
+('health_bar is ', [(92, 929, 127), (48, 737, 349), (11, 987, 385), (26, 1095, 475)])
+ally_healthbars
+[(92, 929, 127), (48, 737, 349), (11, 987, 385), (26, 1095, 475)]
+Found someone on screen stayin still
+(987, 385, 11)
+returning parsed locations:
+[(975, 322), (955, 506), (1378, 608), (1132, 686)]
+trying to stick with team on screen
+[(975, 322), (955, 506), (1378, 608), (1132, 686)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(641, 210)]
+hero locations:
+[(641, 210)]
+('health_bar is ', [(43, 641, 210)])
+ally_healthbars
+[(43, 641, 210)]
+Found someone on screen stayin still
+(641, 210, 43)
+returning parsed locations:
+[(622, 90)]
+trying to stick with team on screen
+[(622, 90)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(963, 209)]
+hero locations:
+[(963, 209)]
+('health_bar is ', [(67, 963, 209)])
+ally_healthbars
+[(67, 963, 209)]
+Found someone on screen stayin still
+(963, 209, 67)
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(546, 170)]
+hero locations:
+[(546, 170)]
+('health_bar is ', [(127, 546, 170)])
+ally_healthbars
+[(127, 546, 170)]
+Found someone on screen stayin still
+(546, 170, 127)
+returning parsed locations:
+[(609, 183)]
+trying to stick with team on screen
+[(609, 183)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(62, 440)]
+hero locations:
+[(62, 440)]
+('health_bar is ', [(117, 62, 440)])
+ally_healthbars
+[(117, 62, 440)]
+Found someone on screen stayin still
+(62, 440, 117)
+returning parsed locations:
+[(164, 348)]
+trying to stick with team on screen
+[(164, 348)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(682, 204)]
+hero locations:
+[(682, 204)]
+('health_bar is ', [(98, 682, 204)])
+ally_healthbars
+[(98, 682, 204)]
+Found someone on screen stayin still
+(682, 204, 98)
+returning parsed locations:
+[(827, 150)]
+trying to stick with team on screen
+[(827, 150)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1520, 85)]
+returning parsed locations:
+[(1405, 91)]
+returning parsed locations:
+[(1312, 141)]
+returning parsed locations:
+[(1171, 210)]
+returning parsed locations:
+[(978, 257)]
+returning parsed locations:
+[(979, 238)]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1306, 313)]
+returning parsed locations:
+[(1225, 327)]
+returning parsed locations:
+[(1211, 343)]
+returning parsed locations:
+[(1244, 354)]
+('hero health = ', 95)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 86)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[(1247, 296)]
+returning parsed locations:
+[(1143, 416)]
+returning parsed locations:
+[(908, 413)]
+returning parsed locations:
+[(816, 418)]
+returning parsed locations:
+[(644, 422)]
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(771, 649)]
+hero locations:
+[(771, 649)]
+('health_bar is ', [(127, 771, 649)])
+ally_healthbars
+[(127, 771, 649)]
+Found someone on screen stayin still
+(771, 649, 127)
+returning parsed locations:
+[(449, 706)]
+trying to stick with team on screen
+[(449, 706)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(67, 458)]
+hero locations:
+[(67, 458)]
+('health_bar is ', [(39, 67, 458)])
+ally_healthbars
+[(39, 67, 458)]
+Found someone on screen stayin still
+(67, 458, 39)
+returning parsed locations:
+[(67, 458)]
+trying to stick with team on screen
+[(67, 458)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[(1070, 455)]
+trying to stick with team on screen
+[(1070, 455)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[(1811, 221)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1666, 356)]
+returning parsed locations:
+[]
+returning parsed locations:
+[(1537, 449)]
+returning parsed locations:
+[(1357, 366)]
+returning parsed locations:
+[(1306, 291)]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[(754, 394)]
+trying to stick with team on screen
+[(754, 394)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 86)
+returning parsed locations:
+[(1006, 352)]
+hero locations:
+[(1006, 352)]
+('health_bar is ', [(15, 1006, 352)])
+ally_healthbars
+[(15, 1006, 352)]
+Found someone on screen stayin still
+(1006, 352, 15)
+returning parsed locations:
+[(994, 277)]
+trying to stick with team on screen
+[(994, 277)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 85)
+returning parsed locations:
+[(1171, 975)]
+hero locations:
+[(1171, 975)]
+('health_bar is ', [(70, 1171, 975)])
+ally_healthbars
+[(70, 1171, 975)]
+Found someone on screen stayin still
+(1171, 975, 70)
+returning parsed locations:
+[(952, 214), (1163, 1057)]
+trying to stick with team on screen
+[(952, 214), (1163, 1057)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 86)
+returning parsed locations:
+[(1039, 115)]
+hero locations:
+[(1039, 115)]
+('health_bar is ', [(0, 1039, 115)])
+ally_healthbars
+[(0, 1039, 115)]
+Found someone on screen stayin still
+(1039, 115, 0)
+returning parsed locations:
+[(946, 148)]
+trying to stick with team on screen
+[(946, 148)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 88)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[(1830, 19), (1777, 73)]
+returning parsed locations:
+[(1675, 67), (1654, 131), (1195, 216)]
+returning parsed locations:
+[(1537, 142), (1518, 197), (1122, 313)]
+returning parsed locations:
+[(1369, 270), (1342, 305), (1023, 482)]
+returning parsed locations:
+[(1266, 300), (1255, 328), (1029, 563)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 90)
+returning parsed locations:
+[(1068, 686)]
+hero locations:
+[(1068, 686)]
+('health_bar is ', [(0, 1068, 686)])
+ally_healthbars
+[(0, 1068, 686)]
+Found someone on screen stayin still
+(1068, 686, 0)
+returning parsed locations:
+[(1024, 797)]
+trying to stick with team on screen
+[(1024, 797)]
+Attack
+returning parsed locations:
+[(1101, 514), (878, 871)]
+returning parsed locations:
+[(877, 285), (1064, 460), (761, 971)]
+returning parsed locations:
+[(857, 272)]
+('hero health = ', 98)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1259, 233), (857, 272), (1040, 445)]
+returning parsed locations:
+[(738, 259), (992, 260), (912, 430)]
+returning parsed locations:
+[(692, 253), (944, 254), (863, 422)]
+('hero health = ', 65)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+('hero health = ', 38)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 20)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[(653, 384)]
+action_run_away, red hero locations
+[(653, 384)]
+Found heros running away
+returning parsed locations:
+[(764, 357)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 11)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 17)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+('hero health = ', 80)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(686, 1019)]
+hero locations:
+[(686, 1019)]
+('health_bar is ', [(48, 686, 1019)])
+ally_healthbars
+[(48, 686, 1019)]
+Found someone on screen stayin still
+(686, 1019, 48)
+returning parsed locations:
+[(580, 869)]
+trying to stick with team on screen
+[(580, 869)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 96)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 74)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 24)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(1816, 4)]
+hero locations:
+[(1816, 4)]
+('health_bar is ', [(127, 1816, 4)])
+ally_healthbars
+[(127, 1816, 4)]
+Found someone on screen stayin still
+(1816, 4, 127)
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(28, 365)]
+hero locations:
+[(28, 365)]
+('health_bar is ', [(107, 28, 365)])
+ally_healthbars
+[(107, 28, 365)]
+Found someone on screen stayin still
+(28, 365, 107)
+returning parsed locations:
+[(222, 503)]
+trying to stick with team on screen
+[(222, 503)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 84)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(844, 354)]
+returning parsed locations:
+[(849, 286)]
+returning parsed locations:
+[(846, 372)]
+returning parsed locations:
+[(882, 388)]
+returning parsed locations:
+[(1022, 445)]
+returning parsed locations:
+[(964, 375)]
+('hero health = ', 23)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[(641, 418)]
+action_run_away, red hero locations
+[(641, 418)]
+Found heros running away
+returning parsed locations:
+[(533, 422)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[(1595, 730)]
+trying to stick with team on screen
+[(1595, 730)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 61)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+('hero health = ', 28)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[(1333, 268)]
+trying to stick with team on screen
+[(1333, 268)]
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(902, 318)]
+hero locations:
+[(902, 318)]
+('health_bar is ', [(50, 902, 318)])
+ally_healthbars
+[(50, 902, 318)]
+Found someone on screen stayin still
+(902, 318, 50)
+returning parsed locations:
+[(996, 365)]
+trying to stick with team on screen
+[(996, 365)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1780, 502)]
+hero locations:
+[(1780, 502)]
+('health_bar is ', [(35, 1780, 502)])
+ally_healthbars
+[(35, 1780, 502)]
+Found someone on screen stayin still
+(1780, 502, 35)
+returning parsed locations:
+[(1858, 407)]
+trying to stick with team on screen
+[(1858, 407)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1221, 136)]
+hero locations:
+[(1221, 136)]
+('health_bar is ', [(126, 1221, 136)])
+ally_healthbars
+[(126, 1221, 136)]
+Found someone on screen stayin still
+(1221, 136, 126)
+returning parsed locations:
+[(1105, 64)]
+trying to stick with team on screen
+[(1105, 64)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(845, 504)]
+hero locations:
+[(845, 504)]
+('health_bar is ', [(22, 845, 504)])
+ally_healthbars
+[(22, 845, 504)]
+Found someone on screen stayin still
+(845, 504, 22)
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(1359, 179)]
+hero locations:
+[(1359, 179)]
+('health_bar is ', [(112, 1359, 179)])
+ally_healthbars
+[(112, 1359, 179)]
+Found someone on screen stayin still
+(1359, 179, 112)
+returning parsed locations:
+[(1301, 289)]
+trying to stick with team on screen
+[(1301, 289)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1160, 106), (1029, 218)]
+hero locations:
+[(1160, 106), (1029, 218)]
+('health_bar is ', [(24, 1160, 106)])
+('health_bar is ', [(24, 1160, 106), (34, 1029, 218)])
+ally_healthbars
+[(24, 1160, 106), (34, 1029, 218)]
+Found someone on screen stayin still
+(1160, 106, 24)
+returning parsed locations:
+[(1086, 172)]
+trying to stick with team on screen
+[(1086, 172)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[(1746, 30)]
+returning parsed locations:
+[(1758, 138)]
+returning parsed locations:
+[(1761, 193)]
+returning parsed locations:
+[(1885, 113), (1805, 223)]
+returning parsed locations:
+[(1759, 115), (1836, 231)]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1887, 249), (1276, 291), (1376, 424)]
+returning parsed locations:
+[(1275, 286), (1294, 420)]
+returning parsed locations:
+[(1288, 318), (1271, 455)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(692, 797)]
+returning parsed locations:
+[(602, 659)]
+returning parsed locations:
+[(662, 458)]
+returning parsed locations:
+[(784, 284)]
+returning parsed locations:
+[(795, 223)]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(828, 307)]
+returning parsed locations:
+[(774, 373)]
+returning parsed locations:
+[(737, 464)]
+returning parsed locations:
+[(727, 479)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 98)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[(38, 320)]
+returning parsed locations:
+[(90, 269)]
+returning parsed locations:
+[(219, 239)]
+returning parsed locations:
+[(361, 251)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 27)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[(531, 619)]
+action_run_away, red hero locations
+[(531, 619)]
+Found heros running away
+returning parsed locations:
+[(516, 728)]
+('hero health = ', 0)
+returning parsed locations:
+[(129, 399)]
+hero locations:
+[(129, 399)]
+('health_bar is ', [(100, 129, 399)])
+ally_healthbars
+[(100, 129, 399)]
+Found someone on screen stayin still
+(129, 399, 100)
+returning parsed locations:
+[(128, 398)]
+trying to stick with team on screen
+[(128, 398)]
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[(391, 661), (93, 695)]
+action_run_away, red hero locations
+[(391, 661), (93, 695)]
+Found heros running away
+returning parsed locations:
+[(318, 590), (182, 726)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(1158, 123)]
+hero locations:
+[(1158, 123)]
+('health_bar is ', [(0, 1158, 123)])
+ally_healthbars
+[(0, 1158, 123)]
+Found someone on screen stayin still
+(1158, 123, 0)
+returning parsed locations:
+[(945, 84)]
+trying to stick with team on screen
+[(945, 84)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(491, 678)]
+hero locations:
+[(491, 678)]
+('health_bar is ', [(0, 491, 678)])
+ally_healthbars
+[(0, 491, 678)]
+Found someone on screen stayin still
+(491, 678, 0)
+returning parsed locations:
+[(402, 658)]
+trying to stick with team on screen
+[(402, 658)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1422, 240)]
+hero locations:
+[(1422, 240)]
+('health_bar is ', [(0, 1422, 240)])
+ally_healthbars
+[(0, 1422, 240)]
+Found someone on screen stayin still
+(1422, 240, 0)
+returning parsed locations:
+[(1645, 187)]
+trying to stick with team on screen
+[(1645, 187)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[(1664, 49)]
+trying to stick with team on screen
+[(1664, 49)]
+Attack
+returning parsed locations:
+[(1674, 162)]
+returning parsed locations:
+[(1614, 81)]
+returning parsed locations:
+[(1615, 81)]
+returning parsed locations:
+[(1549, 46)]
+returning parsed locations:
+[(1460, 74), (1842, 426)]
+('hero health = ', 99)
+returning parsed locations:
+[(1508, 165), (1442, 172)]
+hero locations:
+[(1508, 165), (1442, 172)]
+('health_bar is ', [(11, 1508, 165)])
+('health_bar is ', [(11, 1508, 165), (36, 1442, 172)])
+ally_healthbars
+[(11, 1508, 165), (36, 1442, 172)]
+Found someone on screen stayin still
+(1508, 165, 11)
+returning parsed locations:
+[(1441, 92), (1485, 155)]
+trying to stick with team on screen
+[(1441, 92), (1485, 155)]
+Attack
+returning parsed locations:
+[(1893, 707)]
+returning parsed locations:
+[(1795, 1048)]
+('hero health = ', 99)
+returning parsed locations:
+[(1280, 202), (1296, 231)]
+hero locations:
+[(1280, 202), (1296, 231)]
+('health_bar is ', [(2, 1280, 202)])
+('health_bar is ', [(2, 1280, 202), (40, 1296, 231)])
+ally_healthbars
+[(2, 1280, 202), (40, 1296, 231)]
+Found someone on screen stayin still
+(1280, 202, 2)
+returning parsed locations:
+[(1174, 237), (1187, 267)]
+trying to stick with team on screen
+[(1174, 237), (1187, 267)]
+Attack
+returning parsed locations:
+[(1344, 140)]
+returning parsed locations:
+[(1223, 253), (1073, 290)]
+('hero health = ', 99)
+returning parsed locations:
+[(913, 408), (919, 445)]
+hero locations:
+[(913, 408), (919, 445)]
+('health_bar is ', [(19, 913, 408)])
+('health_bar is ', [(19, 913, 408), (83, 919, 445)])
+ally_healthbars
+[(19, 913, 408), (83, 919, 445)]
+Found someone on screen stayin still
+(913, 408, 19)
+returning parsed locations:
+[(807, 477), (811, 519)]
+trying to stick with team on screen
+[(807, 477), (811, 519)]
+Attack
+returning parsed locations:
+[(1027, 481)]
+returning parsed locations:
+[(864, 479), (1023, 481)]
+('hero health = ', 99)
+returning parsed locations:
+[(749, 470), (716, 512)]
+hero locations:
+[(749, 470), (716, 512)]
+('health_bar is ', [(88, 749, 470)])
+('health_bar is ', [(88, 749, 470), (63, 716, 512)])
+ally_healthbars
+[(88, 749, 470), (63, 716, 512)]
+Found someone on screen stayin still
+(716, 512, 63)
+returning parsed locations:
+[(702, 379), (687, 415)]
+trying to stick with team on screen
+[(702, 379), (687, 415)]
+Attack
+returning parsed locations:
+[(1119, 383), (1014, 471)]
+returning parsed locations:
+[(1318, 495), (1040, 523), (1191, 893)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 84)
+returning parsed locations:
+[(655, 359), (688, 459)]
+hero locations:
+[(655, 359), (688, 459)]
+('health_bar is ', [(0, 655, 359)])
+('health_bar is ', [(0, 655, 359), (105, 688, 459)])
+ally_healthbars
+[(0, 655, 359), (105, 688, 459)]
+Found someone on screen stayin still
+(655, 359, 0)
+returning parsed locations:
+[(671, 478), (728, 497)]
+trying to stick with team on screen
+[(671, 478), (728, 497)]
+Attack
+returning parsed locations:
+[(853, 558), (1441, 682), (914, 705)]
+returning parsed locations:
+[(943, 562), (1001, 607)]
+returning parsed locations:
+[(1089, 488), (1018, 494)]
+returning parsed locations:
+[(1087, 422), (1181, 515)]
+('hero health = ', 81)
+returning parsed locations:
+[(1024, 453), (999, 509)]
+hero locations:
+[(1024, 453), (999, 509)]
+('health_bar is ', [(24, 1024, 453)])
+('health_bar is ', [(24, 1024, 453), (11, 999, 509)])
+ally_healthbars
+[(24, 1024, 453), (11, 999, 509)]
+Found someone on screen stayin still
+(999, 509, 11)
+returning parsed locations:
+[(918, 545), (872, 587)]
+trying to stick with team on screen
+[(918, 545), (872, 587)]
+Attack
+returning parsed locations:
+[(1034, 537), (1361, 629), (488, 849)]
+returning parsed locations:
+[(1057, 469), (1500, 594), (594, 717)]
+returning parsed locations:
+[(1043, 411), (669, 624)]
+returning parsed locations:
+[(990, 398), (717, 541)]
+returning parsed locations:
+[(970, 357), (658, 360)]
+('hero health = ', 84)
+returning parsed locations:
+[(785, 368)]
+hero locations:
+[(785, 368)]
+('health_bar is ', [(19, 785, 368)])
+ally_healthbars
+[(19, 785, 368)]
+Found someone on screen stayin still
+(785, 368, 19)
+returning parsed locations:
+[(798, 334), (846, 346)]
+trying to stick with team on screen
+[(798, 334), (846, 346)]
+Attack
+returning parsed locations:
+[(925, 251)]
+returning parsed locations:
+[(922, 191)]
+('hero health = ', 99)
+returning parsed locations:
+[(914, 266), (969, 286)]
+hero locations:
+[(914, 266), (969, 286)]
+('health_bar is ', [(9, 914, 266)])
+('health_bar is ', [(9, 914, 266), (25, 969, 286)])
+ally_healthbars
+[(9, 914, 266), (25, 969, 286)]
+Found someone on screen stayin still
+(914, 266, 9)
+returning parsed locations:
+[(857, 316)]
+trying to stick with team on screen
+[(857, 316)]
+Attack
+returning parsed locations:
+[(944, 201), (1026, 432)]
+returning parsed locations:
+[(1073, 250), (1104, 587)]
+returning parsed locations:
+[(1236, 430), (1184, 922)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(1126, 317), (1107, 346)]
+hero locations:
+[(1126, 317), (1107, 346)]
+('health_bar is ', [(8, 1126, 317)])
+('health_bar is ', [(8, 1126, 317), (11, 1107, 346)])
+ally_healthbars
+[(8, 1126, 317), (11, 1107, 346)]
+Found someone on screen stayin still
+(1126, 317, 8)
+returning parsed locations:
+[(1047, 274), (1150, 293)]
+trying to stick with team on screen
+[(1047, 274), (1150, 293)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1070, 451), (541, 595)]
+hero locations:
+[(1070, 451), (541, 595)]
+('health_bar is ', [(0, 1070, 451)])
+('health_bar is ', [(0, 1070, 451), (6, 541, 595)])
+ally_healthbars
+[(0, 1070, 451), (6, 541, 595)]
+Found someone on screen stayin still
+(1070, 451, 0)
+returning parsed locations:
+[(1046, 524), (355, 752)]
+trying to stick with team on screen
+[(1046, 524), (355, 752)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(946, 484)]
+hero locations:
+[(946, 484)]
+('health_bar is ', [(3, 946, 484)])
+ally_healthbars
+[(3, 946, 484)]
+Found someone on screen stayin still
+(946, 484, 3)
+returning parsed locations:
+[(956, 565)]
+trying to stick with team on screen
+[(956, 565)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1020, 936)]
+hero locations:
+[(1020, 936)]
+('health_bar is ', [(118, 1020, 936)])
+ally_healthbars
+[(118, 1020, 936)]
+Found someone on screen stayin still
+(1020, 936, 118)
+returning parsed locations:
+[(71, 583), (1005, 922)]
+trying to stick with team on screen
+[(71, 583), (1005, 922)]
+Attack
+returning parsed locations:
+[(1164, 841)]
+returning parsed locations:
+[(1219, 834)]
+returning parsed locations:
+[(1196, 753)]
+returning parsed locations:
+[(1126, 671), (1166, 829)]
+returning parsed locations:
+[(1033, 481)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(715, 434), (897, 527)]
+hero locations:
+[(715, 434), (897, 527)]
+('health_bar is ', [(22, 715, 434)])
+('health_bar is ', [(22, 715, 434), (121, 897, 527)])
+ally_healthbars
+[(22, 715, 434), (121, 897, 527)]
+Found someone on screen stayin still
+(715, 434, 22)
+returning parsed locations:
+[(897, 527), (824, 546)]
+trying to stick with team on screen
+[(897, 527), (824, 546)]
+Attack
+returning parsed locations:
+[(911, 414), (1031, 497)]
+returning parsed locations:
+[(922, 416), (973, 446)]
+returning parsed locations:
+[(824, 374), (948, 393)]
+('hero health = ', 99)
+returning parsed locations:
+[(833, 399), (487, 401)]
+hero locations:
+[(833, 399), (487, 401)]
+('health_bar is ', [(35, 833, 399)])
+('health_bar is ', [(35, 833, 399), (0, 487, 401)])
+ally_healthbars
+[(35, 833, 399), (0, 487, 401)]
+Found someone on screen stayin still
+(487, 401, 0)
+returning parsed locations:
+[(823, 381), (348, 427)]
+trying to stick with team on screen
+[(823, 381), (348, 427)]
+Attack
+returning parsed locations:
+[(568, 372), (1057, 455), (1253, 958)]
+returning parsed locations:
+[(658, 451), (1349, 498), (1231, 893)]
+('hero health = ', 99)
+returning parsed locations:
+[(1296, 609), (165, 625)]
+hero locations:
+[(1296, 609), (165, 625)]
+('health_bar is ', [(19, 1296, 609)])
+('health_bar is ', [(19, 1296, 609), (0, 165, 625)])
+ally_healthbars
+[(19, 1296, 609), (0, 165, 625)]
+Found someone on screen stayin still
+(165, 625, 0)
+returning parsed locations:
+[(1369, 552), (154, 666)]
+trying to stick with team on screen
+[(1369, 552), (154, 666)]
+Attack
+returning parsed locations:
+[(1082, 375), (1859, 493), (1322, 675)]
+returning parsed locations:
+[(1103, 536)]
+('hero health = ', 99)
+returning parsed locations:
+[(1216, 190)]
+hero locations:
+[(1216, 190)]
+('health_bar is ', [(0, 1216, 190)])
+ally_healthbars
+[(0, 1216, 190)]
+Found someone on screen stayin still
+(1216, 190, 0)
+returning parsed locations:
+[(1149, 114)]
+trying to stick with team on screen
+[(1149, 114)]
+Attack
+returning parsed locations:
+[(1085, 531)]
+returning parsed locations:
+[(1015, 395), (1070, 568)]
+returning parsed locations:
+[(1102, 407), (1006, 521)]
+('hero health = ', 90)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[(541, 68)]
+trying to stick with team on screen
+[(541, 68)]
+Attack
+returning parsed locations:
+[(843, 466)]
+returning parsed locations:
+[(823, 472), (1167, 788)]
+returning parsed locations:
+[(952, 612), (1097, 704)]
+returning parsed locations:
+[(955, 485)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 82)
+returning parsed locations:
+[(696, 234)]
+hero locations:
+[(696, 234)]
+('health_bar is ', [(0, 696, 234)])
+ally_healthbars
+[(0, 696, 234)]
+Found someone on screen stayin still
+(696, 234, 0)
+returning parsed locations:
+[(725, 246)]
+trying to stick with team on screen
+[(725, 246)]
+Attack
+returning parsed locations:
+[(742, 218), (1174, 418)]
+returning parsed locations:
+[(817, 313), (1374, 480)]
+('hero health = ', 96)
+returning parsed locations:
+[(865, 435)]
+hero locations:
+[(865, 435)]
+('health_bar is ', [(37, 865, 435)])
+ally_healthbars
+[(37, 865, 435)]
+Found someone on screen stayin still
+(865, 435, 37)
+returning parsed locations:
+[(736, 411)]
+trying to stick with team on screen
+[(736, 411)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 82)
+returning parsed locations:
+[(1014, 539)]
+hero locations:
+[(1014, 539)]
+('health_bar is ', [(17, 1014, 539)])
+ally_healthbars
+[(17, 1014, 539)]
+Found someone on screen stayin still
+(1014, 539, 17)
+returning parsed locations:
+[(1036, 547)]
+trying to stick with team on screen
+[(1036, 547)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 88)
+returning parsed locations:
+[(985, 385)]
+hero locations:
+[(985, 385)]
+('health_bar is ', [(1, 985, 385)])
+ally_healthbars
+[(1, 985, 385)]
+Found someone on screen stayin still
+(985, 385, 1)
+returning parsed locations:
+[(1019, 304)]
+trying to stick with team on screen
+[(1019, 304)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[(1532, 660)]
+returning parsed locations:
+[(1308, 759)]
+('hero health = ', 89)
+returning parsed locations:
+[(702, 454)]
+hero locations:
+[(702, 454)]
+('health_bar is ', [(0, 702, 454)])
+ally_healthbars
+[(0, 702, 454)]
+Found someone on screen stayin still
+(702, 454, 0)
+returning parsed locations:
+[(587, 503)]
+trying to stick with team on screen
+[(587, 503)]
+Attack
+returning parsed locations:
+[(942, 617)]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 90)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[(97, 438)]
+trying to stick with team on screen
+[(97, 438)]
+Attack
+returning parsed locations:
+[(1008, 385), (897, 488)]
+returning parsed locations:
+[(1045, 407), (934, 511)]
+returning parsed locations:
+[(1029, 360), (966, 532)]
+returning parsed locations:
+[(872, 324), (811, 511)]
+('hero health = ', 69)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1109, 467)]
+returning parsed locations:
+[(980, 384), (1092, 518)]
+returning parsed locations:
+[(976, 387), (1088, 522)]
+('hero health = ', 72)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[(440, 351)]
+trying to stick with team on screen
+[(440, 351)]
+Attack
+returning parsed locations:
+[(742, 373), (576, 377)]
+returning parsed locations:
+[(598, 372)]
+returning parsed locations:
+[(798, 369), (909, 416)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 59)
+returning parsed locations:
+[(1211, 462)]
+hero locations:
+[(1211, 462)]
+('health_bar is ', [(84, 1211, 462)])
+ally_healthbars
+[(84, 1211, 462)]
+Found someone on screen stayin still
+(1211, 462, 84)
+returning parsed locations:
+[(1211, 462)]
+trying to stick with team on screen
+[(1211, 462)]
+('hero health = ', 56)
+returning parsed locations:
+[(1211, 462)]
+hero locations:
+[(1211, 462)]
+('health_bar is ', [(0, 1211, 462)])
+ally_healthbars
+[(0, 1211, 462)]
+Found someone on screen stayin still
+(1211, 462, 0)
+returning parsed locations:
+[(1096, 388)]
+trying to stick with team on screen
+[(1096, 388)]
+('hero health = ', 49)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[(950, 494)]
+trying to stick with team on screen
+[(950, 494)]
+('hero health = ', 43)
+returning parsed locations:
+[(893, 471)]
+hero locations:
+[(893, 471)]
+('health_bar is ', [(2, 893, 471)])
+ally_healthbars
+[(2, 893, 471)]
+Found someone on screen stayin still
+(893, 471, 2)
+returning parsed locations:
+[(843, 401)]
+trying to stick with team on screen
+[(843, 401)]
+('hero health = ', 36)
+returning parsed locations:
+[(843, 412)]
+hero locations:
+[(843, 412)]
+('health_bar is ', [(26, 843, 412)])
+ally_healthbars
+[(26, 843, 412)]
+Found someone on screen stayin still
+(843, 412, 26)
+returning parsed locations:
+[(804, 251)]
+trying to stick with team on screen
+[(804, 251)]
+('hero health = ', 31)
+newtalent Found!
+returning parsed locations:
+[(817, 440)]
+hero locations:
+[(817, 440)]
+('health_bar is ', [(86, 817, 440)])
+ally_healthbars
+[(86, 817, 440)]
+Found someone on screen stayin still
+(817, 440, 86)
+returning parsed locations:
+[(817, 440)]
+trying to stick with team on screen
+[(817, 440)]
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[(798, 290)]
+action_run_away, red hero locations
+[(798, 290)]
+Found heros running away
+returning parsed locations:
+[(798, 290)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 24)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[(1801, 533)]
+trying to stick with team on screen
+[(1801, 533)]
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 57)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+('hero health = ', 67)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 76)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 77)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 78)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 78)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 79)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[(1657, 477)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 80)
+returning parsed locations:
+[(1574, 2)]
+hero locations:
+[(1574, 2)]
+('health_bar is ', [(0, 1574, 2)])
+ally_healthbars
+[(0, 1574, 2)]
+Found someone on screen stayin still
+(1574, 2, 0)
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1329, 760)]
+returning parsed locations:
+[(1277, 881)]
+returning parsed locations:
+[(1164, 881)]
+returning parsed locations:
+[(1165, 671)]
+returning parsed locations:
+[]
+('hero health = ', 81)
+returning parsed locations:
+[(92, 441)]
+hero locations:
+[(92, 441)]
+('health_bar is ', [(127, 92, 441)])
+ally_healthbars
+[(127, 92, 441)]
+Found someone on screen stayin still
+(92, 441, 127)
+returning parsed locations:
+[(27, 572)]
+trying to stick with team on screen
+[(27, 572)]
+Attack
+returning parsed locations:
+[(985, 477)]
+returning parsed locations:
+[(990, 415)]
+returning parsed locations:
+[(978, 376), (1111, 845)]
+('hero health = ', 98)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[(817, 325)]
+trying to stick with team on screen
+[(817, 325)]
+Attack
+returning parsed locations:
+[(1305, 282)]
+returning parsed locations:
+[(1238, 280)]
+('hero health = ', 99)
+returning parsed locations:
+[(472, 707)]
+hero locations:
+[(472, 707)]
+('health_bar is ', [(0, 472, 707)])
+ally_healthbars
+[(0, 472, 707)]
+Found someone on screen stayin still
+(472, 707, 0)
+returning parsed locations:
+[(411, 823)]
+trying to stick with team on screen
+[(411, 823)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[(1090, 273)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1097, 285)]
+returning parsed locations:
+[(1142, 338)]
+returning parsed locations:
+[(1103, 482)]
+returning parsed locations:
+[(965, 631)]
+returning parsed locations:
+[(950, 754)]
+('hero health = ', 99)
+returning parsed locations:
+[(298, 115)]
+hero locations:
+[(298, 115)]
+('health_bar is ', [(0, 298, 115)])
+ally_healthbars
+[(0, 298, 115)]
+Found someone on screen stayin still
+(298, 115, 0)
+returning parsed locations:
+[(232, 189)]
+trying to stick with team on screen
+[(232, 189)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 92)
+returning parsed locations:
+[(283, 490)]
+hero locations:
+[(283, 490)]
+('health_bar is ', [(127, 283, 490)])
+ally_healthbars
+[(127, 283, 490)]
+Found someone on screen stayin still
+(283, 490, 127)
+returning parsed locations:
+[(371, 644)]
+trying to stick with team on screen
+[(371, 644)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 94)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 94)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 95)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 29)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[(1341, 1054)]
+returning parsed locations:
+[(1107, 921)]
+returning parsed locations:
+[(978, 370), (1022, 430)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(860, 128)]
+hero locations:
+[(860, 128)]
+('health_bar is ', [(4, 860, 128)])
+ally_healthbars
+[(4, 860, 128)]
+Found someone on screen stayin still
+(860, 128, 4)
+returning parsed locations:
+[(788, 77)]
+trying to stick with team on screen
+[(788, 77)]
+Attack
+returning parsed locations:
+[(934, 187), (1217, 260), (960, 413)]
+returning parsed locations:
+[(948, 183), (1180, 215)]
+returning parsed locations:
+[(831, 189), (1021, 197), (851, 434)]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1037, 130), (903, 322)]
+returning parsed locations:
+[(996, 89), (771, 405)]
+('hero health = ', 99)
+returning parsed locations:
+[(443, 896)]
+hero locations:
+[(443, 896)]
+('health_bar is ', [(17, 443, 896)])
+ally_healthbars
+[(17, 443, 896)]
+Found someone on screen stayin still
+(443, 896, 17)
+returning parsed locations:
+[(272, 1063)]
+trying to stick with team on screen
+[(272, 1063)]
+Attack
+returning parsed locations:
+[(724, 133), (854, 224), (1018, 249)]
+returning parsed locations:
+[(829, 121), (973, 171), (1014, 290), (990, 618)]
+returning parsed locations:
+[(1235, 206), (1197, 282), (1048, 461)]
+('hero health = ', 91)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1134, 149)]
+returning parsed locations:
+[(1098, 149)]
+returning parsed locations:
+[(910, 119), (1065, 149)]
+returning parsed locations:
+[(1410, 106), (746, 119), (895, 149)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 59)
+returning parsed locations:
+[(5, 936)]
+hero locations:
+[(5, 936)]
+('health_bar is ', [(24, 5, 936)])
+ally_healthbars
+[(24, 5, 936)]
+Found someone on screen stayin still
+(5, 936, 24)
+returning parsed locations:
+[(46, 780)]
+trying to stick with team on screen
+[(46, 780)]
+('hero health = ', 60)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[(178, 309)]
+trying to stick with team on screen
+[(178, 309)]
+('hero health = ', 58)
+returning parsed locations:
+[(239, 213)]
+hero locations:
+[(239, 213)]
+('health_bar is ', [(5, 239, 213)])
+ally_healthbars
+[(5, 239, 213)]
+Found someone on screen stayin still
+(239, 213, 5)
+returning parsed locations:
+[(367, 131)]
+trying to stick with team on screen
+[(367, 131)]
+('hero health = ', 52)
+returning parsed locations:
+[(498, 66)]
+hero locations:
+[(498, 66)]
+('health_bar is ', [(0, 498, 66)])
+ally_healthbars
+[(0, 498, 66)]
+Found someone on screen stayin still
+(498, 66, 0)
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+('hero health = ', 52)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+('hero health = ', 34)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 25)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[(1062, 335), (955, 556)]
+action_run_away, red hero locations
+[(1062, 335), (955, 556)]
+Found heros running away
+returning parsed locations:
+[(1043, 331), (935, 551)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[(635, 472), (397, 768)]
+action_run_away, red hero locations
+[(635, 472), (397, 768)]
+Found heros running away
+returning parsed locations:
+[(714, 496), (397, 768)]
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[(397, 768)]
+action_run_away, red hero locations
+[(397, 768)]
+Found heros running away
+returning parsed locations:
+[(397, 768)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+newtalent Found!
+returning parsed locations:
+[(228, 376)]
+hero locations:
+[(228, 376)]
+('health_bar is ', [(114, 228, 376)])
+ally_healthbars
+[(114, 228, 376)]
+Found someone on screen stayin still
+(228, 376, 114)
+returning parsed locations:
+[(228, 376)]
+trying to stick with team on screen
+[(228, 376)]
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1501, 411)]
+hero locations:
+[(1501, 411)]
+('health_bar is ', [(0, 1501, 411)])
+ally_healthbars
+[(0, 1501, 411)]
+Found someone on screen stayin still
+(1501, 411, 0)
+returning parsed locations:
+[(1481, 506)]
+trying to stick with team on screen
+[(1481, 506)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[(1442, 950)]
+trying to stick with team on screen
+[(1442, 950)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 77)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[(401, 296)]
+trying to stick with team on screen
+[(401, 296)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 23)
+returning parsed locations:
+[(841, 423)]
+hero locations:
+[(841, 423)]
+('health_bar is ', [(12, 841, 423)])
+ally_healthbars
+[(12, 841, 423)]
+Found someone on screen stayin still
+(841, 423, 12)
+returning parsed locations:
+[(960, 452)]
+trying to stick with team on screen
+[(960, 452)]
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 64)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+('hero health = ', 72)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 86)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 86)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 87)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 88)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[(1398, 856)]
+trying to stick with team on screen
+[(1398, 856)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 89)
+returning parsed locations:
+[(1679, 540)]
+hero locations:
+[(1679, 540)]
+('health_bar is ', [(127, 1679, 540)])
+ally_healthbars
+[(127, 1679, 540)]
+Found someone on screen stayin still
+(1679, 540, 127)
+returning parsed locations:
+[(1861, 561)]
+trying to stick with team on screen
+[(1861, 561)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 89)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[(1641, 229)]
+trying to stick with team on screen
+[(1641, 229)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[(1829, 155)]
+returning parsed locations:
+[(1630, 238), (1837, 269)]
+returning parsed locations:
+[(1618, 369), (1439, 394)]
+returning parsed locations:
+[(1580, 473), (1446, 515)]
+('hero health = ', 90)
+returning parsed locations:
+[(1510, 824)]
+hero locations:
+[(1510, 824)]
+('health_bar is ', [(0, 1510, 824)])
+ally_healthbars
+[(0, 1510, 824)]
+Found someone on screen stayin still
+(1510, 824, 0)
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1282, 466), (1580, 473)]
+returning parsed locations:
+[(1171, 555), (1402, 598)]
+('hero health = ', 90)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1146, 267), (1031, 355)]
+returning parsed locations:
+[(1090, 266), (893, 412)]
+('hero health = ', 78)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[(111, 111)]
+trying to stick with team on screen
+[(111, 111)]
+Attack
+returning parsed locations:
+[(973, 255)]
+returning parsed locations:
+[(998, 265)]
+returning parsed locations:
+[]
+returning parsed locations:
+[(932, 460)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 49)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+('hero health = ', 24)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[(828, 180), (90, 281)]
+hero locations:
+[(828, 180), (90, 281)]
+('health_bar is ', [(0, 828, 180)])
+('health_bar is ', [(0, 828, 180), (0, 90, 281)])
+ally_healthbars
+[(0, 828, 180), (0, 90, 281)]
+Found someone on screen stayin still
+(828, 180, 0)
+returning parsed locations:
+[(927, 119), (87, 382)]
+trying to stick with team on screen
+[(927, 119), (87, 382)]
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+('hero health = ', 0)
+returning parsed locations:
+[(106, 868)]
+hero locations:
+[(106, 868)]
+('health_bar is ', [(0, 106, 868)])
+ally_healthbars
+[(0, 106, 868)]
+Found someone on screen stayin still
+(106, 868, 0)
+returning parsed locations:
+[(135, 701)]
+trying to stick with team on screen
+[(135, 701)]
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[(1791, 497)]
+trying to stick with team on screen
+[(1791, 497)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[(1887, 236)]
+returning parsed locations:
+[(1721, 203)]
+returning parsed locations:
+[(1315, 166), (1539, 363), (1746, 367)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(217, 423)]
+hero locations:
+[(217, 423)]
+('health_bar is ', [(127, 217, 423)])
+ally_healthbars
+[(127, 217, 423)]
+Found someone on screen stayin still
+(217, 423, 127)
+returning parsed locations:
+[(126, 416)]
+trying to stick with team on screen
+[(126, 416)]
+Attack
+returning parsed locations:
+[(1852, 361)]
+returning parsed locations:
+[]
+returning parsed locations:
+[(1860, 384)]
+('hero health = ', 99)
+returning parsed locations:
+[(543, 113)]
+hero locations:
+[(543, 113)]
+('health_bar is ', [(0, 543, 113)])
+ally_healthbars
+[(0, 543, 113)]
+Found someone on screen stayin still
+(543, 113, 0)
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1880, 271)]
+returning parsed locations:
+[(1672, 217)]
+returning parsed locations:
+[(1868, 61), (1423, 115)]
+('hero health = ', 99)
+returning parsed locations:
+[(580, 318)]
+hero locations:
+[(580, 318)]
+('health_bar is ', [(24, 580, 318)])
+ally_healthbars
+[(24, 580, 318)]
+Found someone on screen stayin still
+(580, 318, 24)
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[(597, 90)]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[(603, 421), (628, 439)]
+returning parsed locations:
+[(393, 663)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 69)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(868, 484), (800, 540)]
+returning parsed locations:
+[]
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[(254, 591)]
+action_run_away, red hero locations
+[(254, 591)]
+Found heros running away
+returning parsed locations:
+[(254, 591)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[(96, 508)]
+action_run_away, red hero locations
+[(96, 508)]
+Found heros running away
+returning parsed locations:
+[(96, 508)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[(189, 317)]
+action_run_away, red hero locations
+[(189, 317)]
+Found heros running away
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1558, 600)]
+returning parsed locations:
+[(1416, 511)]
+returning parsed locations:
+[(1274, 421)]
+returning parsed locations:
+[(1175, 383)]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[(970, 386)]
+returning parsed locations:
+[(822, 431)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1007, 313)]
+returning parsed locations:
+[]
+returning parsed locations:
+[(977, 278)]
+('hero health = ', 94)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 94)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 90)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 76)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 40)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+('hero health = ', 6)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+('hero health = ', 0)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+('hero health = ', 0)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(980, 315)]
+hero locations:
+[(980, 315)]
+('health_bar is ', [(44, 980, 315)])
+ally_healthbars
+[(44, 980, 315)]
+Found someone on screen stayin still
+(980, 315, 44)
+returning parsed locations:
+[(1143, 383)]
+trying to stick with team on screen
+[(1143, 383)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(1332, 311)]
+hero locations:
+[(1332, 311)]
+('health_bar is ', [(0, 1332, 311)])
+ally_healthbars
+[(0, 1332, 311)]
+Found someone on screen stayin still
+(1332, 311, 0)
+returning parsed locations:
+[(1185, 376)]
+trying to stick with team on screen
+[(1185, 376)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(1476, 548)]
+hero locations:
+[(1476, 548)]
+('health_bar is ', [(54, 1476, 548)])
+ally_healthbars
+[(54, 1476, 548)]
+Found someone on screen stayin still
+(1476, 548, 54)
+returning parsed locations:
+[(1574, 660)]
+trying to stick with team on screen
+[(1574, 660)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(1118, 459)]
+hero locations:
+[(1118, 459)]
+('health_bar is ', [(1, 1118, 459)])
+ally_healthbars
+[(1, 1118, 459)]
+Found someone on screen stayin still
+(1118, 459, 1)
+returning parsed locations:
+[(1163, 415)]
+trying to stick with team on screen
+[(1163, 415)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 94)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 57)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+('hero health = ', 19)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+('hero health = ', 0)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+('hero health = ', 0)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+newtalent Found!
+returning parsed locations:
+[(1782, 1)]
+hero locations:
+[(1782, 1)]
+('health_bar is ', [(0, 1782, 1)])
+ally_healthbars
+[(0, 1782, 1)]
+Found someone on screen stayin still
+(1782, 1, 0)
+returning parsed locations:
+[(1897, 20)]
+trying to stick with team on screen
+[(1897, 20)]
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[(1914, 2)]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[(723, 397)]
+trying to stick with team on screen
+[(723, 397)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(429, 198)]
+hero locations:
+[(429, 198)]
+('health_bar is ', [(48, 429, 198)])
+ally_healthbars
+[(48, 429, 198)]
+Found someone on screen stayin still
+(429, 198, 48)
+returning parsed locations:
+[(387, 117)]
+trying to stick with team on screen
+[(387, 117)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[(1875, 426)]
+returning parsed locations:
+[(1836, 426)]
+returning parsed locations:
+[(1091, 426)]
+returning parsed locations:
+[]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(573, 620)]
+returning parsed locations:
+[(461, 630)]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[(317, 488)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[(3, 168)]
+trying to stick with team on screen
+[(3, 168)]
+Attack
+returning parsed locations:
+[(217, 341)]
+returning parsed locations:
+[(805, 310)]
+returning parsed locations:
+[(847, 366)]
+returning parsed locations:
+[]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(820, 370)]
+hero locations:
+[(820, 370)]
+('health_bar is ', [(16, 820, 370)])
+ally_healthbars
+[(16, 820, 370)]
+Found someone on screen stayin still
+(820, 370, 16)
+returning parsed locations:
+[(877, 392)]
+trying to stick with team on screen
+[(877, 392)]
+Attack
+returning parsed locations:
+[(1150, 412)]
+returning parsed locations:
+[(1321, 458)]
+returning parsed locations:
+[(1465, 484)]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(1237, 439)]
+hero locations:
+[(1237, 439)]
+('health_bar is ', [(62, 1237, 439)])
+ally_healthbars
+[(62, 1237, 439)]
+Found someone on screen stayin still
+(1237, 439, 62)
+returning parsed locations:
+[(1106, 400)]
+trying to stick with team on screen
+[(1106, 400)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(726, 284)]
+hero locations:
+[(726, 284)]
+('health_bar is ', [(0, 726, 284)])
+ally_healthbars
+[(0, 726, 284)]
+Found someone on screen stayin still
+(726, 284, 0)
+returning parsed locations:
+[(724, 322)]
+trying to stick with team on screen
+[(724, 322)]
+Attack
+returning parsed locations:
+[(1554, 504)]
+returning parsed locations:
+[(1288, 490)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(1039, 429)]
+hero locations:
+[(1039, 429)]
+('health_bar is ', [(0, 1039, 429)])
+ally_healthbars
+[(0, 1039, 429)]
+Found someone on screen stayin still
+(1039, 429, 0)
+returning parsed locations:
+[(1145, 478)]
+trying to stick with team on screen
+[(1145, 478)]
+Attack
+returning parsed locations:
+[(1266, 482)]
+returning parsed locations:
+[(1266, 482)]
+returning parsed locations:
+[(1266, 482)]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(1154, 453)]
+hero locations:
+[(1154, 453)]
+('health_bar is ', [(80, 1154, 453)])
+ally_healthbars
+[(80, 1154, 453)]
+Found someone on screen stayin still
+(1154, 453, 80)
+returning parsed locations:
+[(1199, 451)]
+trying to stick with team on screen
+[(1199, 451)]
+Attack
+returning parsed locations:
+[(1266, 482)]
+returning parsed locations:
+[(1266, 482)]
+returning parsed locations:
+[(1266, 482)]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(1199, 450)]
+hero locations:
+[(1199, 450)]
+('health_bar is ', [(73, 1199, 450)])
+ally_healthbars
+[(73, 1199, 450)]
+Found someone on screen stayin still
+(1199, 450, 73)
+returning parsed locations:
+[(1207, 412)]
+trying to stick with team on screen
+[(1207, 412)]
+Attack
+returning parsed locations:
+[(1762, 703)]
+returning parsed locations:
+[(1678, 468)]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(941, 573)]
+hero locations:
+[(941, 573)]
+('health_bar is ', [(25, 941, 573)])
+ally_healthbars
+[(25, 941, 573)]
+Found someone on screen stayin still
+(941, 573, 25)
+returning parsed locations:
+[(973, 576)]
+trying to stick with team on screen
+[(973, 576)]
+Attack
+returning parsed locations:
+[(1486, 520)]
+returning parsed locations:
+[(1321, 556)]
+returning parsed locations:
+[(1839, 493), (1181, 572)]
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(822, 786)]
+hero locations:
+[(822, 786)]
+('health_bar is ', [(0, 822, 786)])
+ally_healthbars
+[(0, 822, 786)]
+Found someone on screen stayin still
+(822, 786, 0)
+returning parsed locations:
+[(879, 813)]
+trying to stick with team on screen
+[(879, 813)]
+Attack
+returning parsed locations:
+[(1495, 674)]
+returning parsed locations:
+[(1358, 708), (997, 744)]
+returning parsed locations:
+[(1458, 658), (1194, 764)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[(559, 453)]
+hero locations:
+[(559, 453)]
+('health_bar is ', [(0, 559, 453)])
+ally_healthbars
+[(0, 559, 453)]
+Found someone on screen stayin still
+(559, 453, 0)
+returning parsed locations:
+[(478, 377)]
+trying to stick with team on screen
+[(478, 377)]
+Attack
+returning parsed locations:
+[(1473, 698)]
+returning parsed locations:
+[(1567, 101), (1209, 298), (1112, 330)]
+('hero health = ', 99)
+returning parsed locations:
+[(617, 395)]
+hero locations:
+[(617, 395)]
+('health_bar is ', [(12, 617, 395)])
+ally_healthbars
+[(12, 617, 395)]
+Found someone on screen stayin still
+(617, 395, 12)
+returning parsed locations:
+[(593, 361)]
+trying to stick with team on screen
+[(593, 361)]
+Attack
+returning parsed locations:
+[(905, 119)]
+returning parsed locations:
+[(905, 119)]
+('hero health = ', 99)
+returning parsed locations:
+[(593, 361)]
+hero locations:
+[(593, 361)]
+('health_bar is ', [(104, 593, 361)])
+ally_healthbars
+[(104, 593, 361)]
+Found someone on screen stayin still
+(593, 361, 104)
+returning parsed locations:
+[(593, 361)]
+trying to stick with team on screen
+[(593, 361)]
+Attack
+returning parsed locations:
+[(905, 119)]
+returning parsed locations:
+[(905, 119)]
+('hero health = ', 99)
+returning parsed locations:
+[(593, 361)]
+hero locations:
+[(593, 361)]
+('health_bar is ', [(104, 593, 361)])
+ally_healthbars
+[(104, 593, 361)]
+Found someone on screen stayin still
+(593, 361, 104)
+returning parsed locations:
+[(593, 361)]
+trying to stick with team on screen
+[(593, 361)]
+Attack
+returning parsed locations:
+[(905, 119)]
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Found Leave Button!
+Found Ready Button!
+In VS AI or QM
+Found Ready Button!
+In VS AI or QM
+Portrait Found! Remaining in Gamemode 1
+checking tab_abathur.png
+could not find tab_abathur.png in tab_portrait\tab_abathur.png
+checking tab_tyrande.png
+could not find tab_tyrande.png in tab_portrait\tab_tyrande.png
+setting AI to default
+Found Standard Mount
+Created Hero Object default
+Detected Blue side is on Left
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Blue Keep and for locations
+Red Keep and for locations
+('hero health = ', 99)
+newtalent Found!
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1875, 795), (1871, 909)]
+hero locations:
+[(1875, 795), (1871, 909)]
+('health_bar is ', [(107, 1875, 795)])
+('health_bar is ', [(107, 1875, 795), (125, 1871, 909)])
+ally_healthbars
+[(107, 1875, 795), (125, 1871, 909)]
+Found someone on screen stayin still
+(1875, 795, 107)
+returning parsed locations:
+[(1872, 909)]
+trying to stick with team on screen
+[(1872, 909)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(692, 297), (872, 348)]
+hero locations:
+[(692, 297), (872, 348)]
+('health_bar is ', [(66, 692, 297)])
+('health_bar is ', [(66, 692, 297), (2, 872, 348)])
+ally_healthbars
+[(66, 692, 297), (2, 872, 348)]
+Found someone on screen stayin still
+(872, 348, 2)
+returning parsed locations:
+[(606, 213), (872, 377)]
+trying to stick with team on screen
+[(606, 213), (872, 377)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(975, 143), (1231, 1014)]
+hero locations:
+[(975, 143), (1231, 1014)]
+('health_bar is ', [(38, 975, 143)])
+('health_bar is ', [(38, 975, 143), (0, 1231, 1014)])
+ally_healthbars
+[(38, 975, 143), (0, 1231, 1014)]
+Found someone on screen stayin still
+(1231, 1014, 0)
+returning parsed locations:
+[(997, 265)]
+trying to stick with team on screen
+[(997, 265)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(802, 251)]
+hero locations:
+[(802, 251)]
+('health_bar is ', [(0, 802, 251)])
+ally_healthbars
+[(0, 802, 251)]
+Found someone on screen stayin still
+(802, 251, 0)
+returning parsed locations:
+[(907, 284)]
+trying to stick with team on screen
+[(907, 284)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(1235, 587)]
+hero locations:
+[(1235, 587)]
+('health_bar is ', [(100, 1235, 587)])
+ally_healthbars
+[(100, 1235, 587)]
+Found someone on screen stayin still
+(1235, 587, 100)
+returning parsed locations:
+[(1140, 587)]
+trying to stick with team on screen
+[(1140, 587)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(824, 400)]
+hero locations:
+[(824, 400)]
+('health_bar is ', [(5, 824, 400)])
+ally_healthbars
+[(5, 824, 400)]
+Found someone on screen stayin still
+(824, 400, 5)
+returning parsed locations:
+[(724, 286)]
+trying to stick with team on screen
+[(724, 286)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1285, 620)]
+hero locations:
+[(1285, 620)]
+('health_bar is ', [(58, 1285, 620)])
+ally_healthbars
+[(58, 1285, 620)]
+Found someone on screen stayin still
+(1285, 620, 58)
+returning parsed locations:
+[(1390, 548)]
+trying to stick with team on screen
+[(1390, 548)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[(992, 330)]
+hero locations:
+[(992, 330)]
+('health_bar is ', [(23, 992, 330)])
+ally_healthbars
+[(23, 992, 330)]
+Found someone on screen stayin still
+(992, 330, 23)
+returning parsed locations:
+[(971, 198)]
+trying to stick with team on screen
+[(971, 198)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[(1059, 179)]
+hero locations:
+[(1059, 179)]
+('health_bar is ', [(17, 1059, 179)])
+ally_healthbars
+[(17, 1059, 179)]
+Found someone on screen stayin still
+(1059, 179, 17)
+returning parsed locations:
+[(1085, 78)]
+trying to stick with team on screen
+[(1085, 78)]
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[(1609, 176)]
+returning parsed locations:
+[(1455, 172)]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1051, 301)]
+returning parsed locations:
+[(1024, 278)]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[(1389, 301)]
+returning parsed locations:
+[(1387, 297)]
+returning parsed locations:
+[(1387, 297)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 99)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+returning parsed locations:
+[]
+('hero health = ', 84)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+Attack
+returning parsed locations:
+[(1062, 279)]
+returning parsed locations:
+[(1042, 297)]
+returning parsed locations:
+[(949, 267)]
+returning parsed locations:
+[(847, 266)]
+returning parsed locations:
+[(754, 327)]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 23)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+found ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+Portrait Found! Remaining in Gamemode 1
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
+('hero health = ', 0)
+returning parsed locations:
+[]
+hero locations:
+[]
+ally_healthbars
+None
+No ally healthbars
+No allies on screen running action_find_team
+no ally on minimap
+returning parsed locations:
+[]
+trying to stick with team on screen
+[]
+no allies, just moving in direction of red core.
+running staying alive
+Im not a healer My type is
+default
+returning parsed locations:
+[]
+action_run_away, red hero locations
+[]
+returning parsed locations:
+[]
